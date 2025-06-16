@@ -1,0 +1,4 @@
+__pycache__
+losses.pkl
+model.pth
+data/
